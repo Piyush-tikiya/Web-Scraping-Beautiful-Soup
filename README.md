@@ -1,4 +1,4 @@
-# Top 100 Movies Web Scraping Project
+# *Top 100 Movies Web Scraping Project* <br/>
 ## *Project Overview*
 
 
