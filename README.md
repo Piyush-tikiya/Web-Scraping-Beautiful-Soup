@@ -51,7 +51,7 @@ with open(r"C:\Users\hp\Downloads\movies.txt", mode="w", encoding="utf-8") as fi
         file.write(f"{movie}\n")
 ```
 
-# *Break of Code to understand:*
+# *Break of Code to understand*
 
 ```
 - requests.get(): Means fetch data.
